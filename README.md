@@ -251,3 +251,4 @@ public void getDijkstraShortestPath() {
 ## 📝 License
 
 This project is [MIT](https://github.com/woowacourse/java-subway-path-precourse/blob/master/LICENSE.md) licensed.
+
